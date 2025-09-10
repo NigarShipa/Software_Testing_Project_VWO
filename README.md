@@ -10,7 +10,7 @@ The test cases cover positive flows, negative flows, usability, security, and co
 - **Registration Test Cases** (16 test cases)
 - **Excel/CSV files** containing structured test cases with:
   - Test Case ID
-  - -Test Scenario ID
+  - Test Scenario ID
   - Test case Title  
   - Precondition
   - Test Steps  
