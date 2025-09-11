@@ -26,6 +26,7 @@ The test cases cover positive flows, negative flows, usability, security, and co
 - Account lockout after multiple failures  
 - Session timeout and multi-tab handling  
 - Browser and mobile responsiveness  
+<img width="1920" height="1020" alt="login" src="https://github.com/user-attachments/assets/7224544a-fc66-4e19-a1ef-13b4773039af" />
 
 ### 📝 Registration Module
 - Valid & Invalid registration  
@@ -34,6 +35,9 @@ The test cases cover positive flows, negative flows, usability, security, and co
 - Duplicate email/phone handling  
 - Password strength & masking  
 - Email confirmation  
-- Browser and mobile responsiveness  
+- Browser and mobile responsiveness
+  
+ <img width="1920" height="1020" alt="registration" src="https://github.com/user-attachments/assets/4790d013-5c24-4314-b668-2ba7b858e4b6" /> 
+
 
 
